@@ -1,32 +1,35 @@
 ---
-document_id: PHIL-ONTO-EXPERT-THINKING-001
-document_type: canonical_entity
-entity_id: EXPERT-THINKING
-canonical_name_vi: Tư duy chuyên gia
-canonical_name_en: Expert Thinking
-entity_type: Ontological Entity
-parent_entity: KNOWLEDGE
-status: Approved Entity Definition
-version: 1.0
+
+document_id: "PHIL-ONTO-EXPERT-THINKING-001"
+document_type: "canonical_entity"
+entity_id: "EXPERT-THINKING"
+canonical_name_vi: "Tư duy chuyên gia"
+canonical_name_en: "Expert Thinking"
+entity_type: "Ontological Entity"
+parent_entity: "KNOWLEDGE"
+status: "Approved Entity Definition"
+version: "1.0"
+
 source:
-foundation: 01-FOUNDATION/001-CORE-PHILOSOPHICAL-FRAMEWORK.md
-ontology_index: 02-ONTOLOGY/000-ONTOLOGY-INDEX.md
-memory_entity: 02-ONTOLOGY/011-MEMORY.md
-ahi_entity: 02-ONTOLOGY/010-AHI.md
-historical_source: 99-ARCHIVE/SOURCE/Triet-Hoc-Le-Minh-Original.md
+foundation: "01-FOUNDATION/001-CORE-PHILOSOPHICAL-FRAMEWORK.md"
+ontology_index: "02-ONTOLOGY/000-ONTOLOGY-INDEX.md"
+memory_entity: "02-ONTOLOGY/011-MEMORY.md"
+ahi_entity: "02-ONTOLOGY/010-AHI.md"
+historical_source: "99-ARCHIVE/SOURCE/Triet-Hoc-Le-Minh-Original.md"
+
 related_entities:
 
-* HUMAN
-* KNOWLEDGE
-* COGNITION
-* INTELLIGENCE
-* MEMORY
-* AHI
-* AHI-P
-* AHI-O
-* AHI-G
-* AHI-SUCCESSOR
-* EVOLUTIONARY-KNOWLEDGE
+* "HUMAN"
+* "KNOWLEDGE"
+* "COGNITION"
+* "INTELLIGENCE"
+* "MEMORY"
+* "AHI"
+* "AHI-P"
+* "AHI-O"
+* "AHI-G"
+* "AHI-SUCCESSOR"
+* "EVOLUTIONARY-KNOWLEDGE"
 
 ---
 
@@ -102,19 +105,15 @@ Phán đoán
 Phản hồi
 ```
 
-Do đó:
-
 > **Tư duy chuyên gia là một cấu trúc sống của tri thức trong hành động.**
 
 Một người có thể sở hữu nhiều dữ liệu nhưng chưa có Tư duy chuyên gia.
 
-Ngược lại, một chuyên gia có thể đưa ra nhận định nhanh vì họ đã tổ chức được một lượng lớn tri thức và kinh nghiệm thành các cấu trúc nhận biết và phán đoán.
+Một chuyên gia có thể đưa ra nhận định nhanh vì đã tổ chức được một lượng lớn tri thức và kinh nghiệm thành các cấu trúc nhận biết và phán đoán.
 
 ---
 
 # 3. Tư duy chuyên gia và Tri thức
-
-Quan hệ:
 
 ```text
 Tri thức
@@ -142,16 +141,6 @@ Do đó:
 Knowledge ≠ Expert Thinking
 ```
 
-nhưng:
-
-```text
-Knowledge
-→
-Expert Thinking
-```
-
-là một quan hệ phát triển quan trọng.
-
 ---
 
 # 4. Tư duy chuyên gia và Ký ức
@@ -166,8 +155,6 @@ Thành công
 Ngoại lệ
 Kinh nghiệm
 ```
-
-Tư duy chuyên gia sử dụng những dấu vết này để nhận biết tình huống mới.
 
 Chu trình:
 
@@ -185,19 +172,11 @@ Nhận diện mẫu
 Phán đoán
 ```
 
-Vì vậy:
-
 > **Ký ức là kho chiều sâu; Tư duy chuyên gia là năng lực làm cho chiều sâu đó trở thành hành động có ý nghĩa.**
 
 ---
 
 # 5. Tư duy chuyên gia và Nhận thức
-
-Nhận thức là quá trình.
-
-Tư duy chuyên gia là một hình thái tổ chức nhận thức ở trình độ chuyên môn cao trong một phạm vi cụ thể.
-
-Có thể mô tả:
 
 ```text
 Cảm nhận
@@ -213,9 +192,7 @@ Kinh nghiệm
 Tư duy chuyên gia
 ```
 
-Nhưng không phải mọi chuyên gia đều có cùng một kiểu tư duy.
-
-Tư duy chuyên gia luôn phụ thuộc vào:
+Tư duy chuyên gia phụ thuộc vào:
 
 ```text
 Lĩnh vực
@@ -229,7 +206,7 @@ Nguồn lực
 
 ---
 
-# 6. Tư duy chuyên gia và nhận diện vấn đề
+# 6. Nhận ra vấn đề
 
 Một dấu hiệu của chuyên môn không chỉ là giải được bài toán.
 
@@ -237,7 +214,7 @@ Một dấu hiệu của chuyên môn không chỉ là giải được bài toá
 
 > **nhìn thấy đúng bài toán cần giải.**
 
-Một chuyên gia thường có khả năng:
+Một chuyên gia có thể:
 
 ```text
 Nhận ra tín hiệu
@@ -251,15 +228,13 @@ Xác định nguyên nhân có khả năng
 Xác định phần chưa biết
 ```
 
-Vì vậy:
-
 > **Một câu hỏi đúng đôi khi có giá trị hơn một câu trả lời nhanh.**
 
 ---
 
-# 7. Tư duy chuyên gia và mẫu nhận biết
+# 7. Mẫu nhận biết
 
-Kinh nghiệm giúp hình thành các mẫu:
+Kinh nghiệm hình thành:
 
 ```text
 Pattern
@@ -270,11 +245,7 @@ Warning
 Opportunity
 ```
 
-Một chuyên gia có thể nhìn thấy một cấu trúc mà người chưa có kinh nghiệm chưa nhận ra.
-
-Tuy nhiên, nhận diện mẫu cũng có thể tạo ra sai lệch.
-
-Một chuyên gia có thể:
+Nhưng kinh nghiệm cũng có thể gây sai lệch:
 
 ```text
 Quá tin vào kinh nghiệm cũ
@@ -282,15 +253,13 @@ Bỏ qua dữ liệu mới
 Nhận diện nhầm mẫu
 ```
 
-Do đó:
-
 > **Kinh nghiệm làm sâu sắc Tư duy chuyên gia, nhưng phản biện và dữ liệu mới giúp nó không trở thành giáo điều.**
 
 ---
 
-# 8. Tư duy chuyên gia và phán đoán
+# 8. Phán đoán
 
-Phán đoán là khả năng chọn một cách hiểu hoặc một hành động phù hợp trong điều kiện không hoàn toàn chắc chắn.
+Phán đoán là khả năng chọn một cách hiểu hoặc hành động phù hợp trong điều kiện không hoàn toàn chắc chắn.
 
 Một phán đoán chuyên gia có thể dựa trên:
 
@@ -312,7 +281,7 @@ Rủi ro
 
 Phán đoán không đồng nghĩa với chắc chắn.
 
-Một chuyên gia thực sự phải biết cả:
+Chuyên gia phải biết:
 
 ```text
 Điều mình biết
@@ -323,7 +292,7 @@ Một chuyên gia thực sự phải biết cả:
 
 ---
 
-# 9. Tư duy chuyên gia và trực giác
+# 9. Trực giác
 
 Trực giác chuyên môn có thể xuất hiện khi một chủ thể nhận ra một cấu trúc nhanh hơn quá trình giải thích có ý thức.
 
@@ -339,11 +308,9 @@ Ký ức
 Thực hành
 ```
 
-Nhưng:
-
 > **Trực giác không phải chân lý tự động.**
 
-Một trực giác chuyên gia vẫn cần được kiểm tra khi:
+Trực giác cần được kiểm tra khi:
 
 ```text
 Bối cảnh mới
@@ -354,7 +321,7 @@ Hậu quả lớn
 
 ---
 
-# 10. Tư duy chuyên gia và sai lầm
+# 10. Sai lầm
 
 Chuyên gia vẫn có thể sai.
 
@@ -370,7 +337,7 @@ Bối cảnh thay đổi
 Sai mô hình
 ```
 
-Một Tư duy chuyên gia tiến hóa phải có khả năng:
+Tư duy chuyên gia tiến hóa phải có khả năng:
 
 ```text
 Nhận ra sai
@@ -388,7 +355,7 @@ Rút kinh nghiệm
 
 ---
 
-# 11. Tư duy chuyên gia và phương pháp
+# 11. Phương pháp
 
 Tư duy chuyên gia không chỉ chứa “biết cái gì”.
 
@@ -403,32 +370,13 @@ Biết phải kiểm tra gì
 Biết phải dừng ở đâu
 ```
 
-Do đó:
-
 > **Phương pháp là phần xương sống của Tư duy chuyên gia.**
-
-Một hệ thống AHI muốn kế thừa chuyên môn không thể chỉ thu thập tài liệu.
-
-Nó phải cố gắng mô hình hóa:
-
-```text
-Phương pháp
-Quy tắc
-Tiêu chí
-Ngoại lệ
-Quy trình
-Cách phán đoán
-```
-
-trong phạm vi có thể và được phép.
 
 ---
 
-# 12. Tư duy chuyên gia và thực tiễn
+# 12. Thực tiễn
 
 Tư duy chuyên gia được hình thành qua thực tiễn.
-
-Chu trình:
 
 ```text
 Lý thuyết
@@ -443,8 +391,6 @@ Phản hồi
 ↓
 Tư duy tốt hơn
 ```
-
-Vì vậy:
 
 > **Không có thực tiễn, chuyên môn dễ biến thành lý thuyết tự khép kín.**
 
@@ -465,8 +411,6 @@ Truyền lại
 
 Tư duy chuyên gia.
 
-Một mô hình:
-
 ```text
 Chuyên gia
 ↓
@@ -481,19 +425,15 @@ AHI
 Người / tổ chức / thế hệ sau
 ```
 
-Mục tiêu không phải loại bỏ chuyên gia.
+Mục tiêu:
 
-Mục tiêu là:
-
-> **giảm sự thất thoát tri thức chuyên môn khi con người thay đổi vị trí, rời tổ chức hoặc kết thúc một đời người.**
+> **Giảm sự thất thoát tri thức chuyên môn khi con người thay đổi vị trí, rời tổ chức hoặc kết thúc một đời người.**
 
 ---
 
 # 14. Tư duy chuyên gia và AHI-P
 
-`AHI-P` có thể là nơi biểu diễn một phần Tư duy chuyên gia của cá nhân.
-
-Có thể bao gồm:
+`AHI-P` có thể biểu diễn một phần:
 
 ```text
 Kiến thức chuyên môn
@@ -505,11 +445,9 @@ Phán đoán
 Lịch sử quyết định
 ```
 
-Nhưng:
-
 > **Mô hình hóa Tư duy chuyên gia của một người không đồng nghĩa tạo ra một bản sao đầy đủ của con người đó.**
 
-Một AHI-P phải phân biệt:
+AHI-P phải phân biệt:
 
 ```text
 Fact
@@ -520,8 +458,6 @@ Preference
 Judgment
 Proposal
 ```
-
-để không biến nhận định cá nhân thành sự thật phổ quát.
 
 ---
 
@@ -551,7 +487,7 @@ thành năng lực tổ chức.
 
 > **Tư duy chuyên gia của tổ chức.**
 
-Nhưng tổ chức không được mặc nhiên biến mọi nhận định của một cá nhân thành nguyên lý chính thức.
+Nhưng nhận định của một cá nhân không tự động trở thành nguyên lý chính thức của tổ chức.
 
 Phải có:
 
@@ -567,8 +503,6 @@ Trạng thái
 
 # 16. Tư duy chuyên gia và AHI-G
 
-AHI-G có thể kết nối Tư duy chuyên gia của nhiều cá nhân và tổ chức để hình thành năng lực cộng đồng.
-
 ```text
 Expert A
 +
@@ -581,13 +515,9 @@ Community Knowledge
 Collective Expert Capability
 ```
 
-Đây là cơ sở nghiên cứu:
+Đây là cơ sở nghiên cứu **Tư duy chuyên gia tập thể**.
 
-```text
-Tư duy chuyên gia tập thể
-```
-
-nhưng:
+Nhưng:
 
 ```text
 Collective Expert Capability
@@ -611,13 +541,11 @@ Phát hiện mẫu
 Gợi ý
 ```
 
-về Tư duy chuyên gia.
-
 Nhưng:
 
 > **AI-generated explanation không tự động trở thành Expert Thinking.**
 
-Muốn xác định một cấu trúc là Tư duy chuyên gia cần xem:
+Cần xem:
 
 ```text
 Nguồn chuyên gia
@@ -630,11 +558,7 @@ Kiểm chứng
 
 ---
 
-# 18. Tư duy chuyên gia và tri thức tiến hóa
-
-Tư duy chuyên gia cũng phải tiến hóa.
-
-Chu trình:
+# 18. Tư duy chuyên gia và Tri thức Tiến hóa
 
 ```text
 Kinh nghiệm
@@ -651,8 +575,6 @@ Phản hồi
 ↓
 Tư duy chuyên gia mới
 ```
-
-Do đó:
 
 > **Chuyên môn không phải một pho tượng; chuyên môn là một dòng sông.**
 
@@ -683,7 +605,7 @@ Có thể kiểm chứng hơn
 Có thể phát triển hơn
 ```
 
-Nhưng thế hệ mới phải được quyền:
+Thế hệ mới phải có quyền:
 
 ```text
 Tiếp nhận
@@ -697,14 +619,8 @@ Vượt qua
 
 # 20. Tư duy chuyên gia và đạo đức
 
-Chuyên môn càng lớn thì khả năng tác động càng lớn.
-
-Vì vậy cần phân biệt:
-
 ```text
-Expertise
-≠
-Authority
+Expertise ≠ Authority
 ```
 
 Một người biết cách làm điều gì đó không mặc nhiên có quyền làm điều đó.
@@ -723,8 +639,6 @@ Trách nhiệm
 
 # 21. Tư duy chuyên gia và Chân – Chí – Khí
 
-Tư duy chuyên gia phải đi qua ba chiều:
-
 ```text
 Chân
 →
@@ -738,8 +652,6 @@ Khí
 →
 Biết cách biến lựa chọn thành hành động
 ```
-
-Do đó:
 
 > **Tư duy chuyên gia không chỉ làm cho con người giỏi hơn trong một nghề; nó phải giúp con người hành động đúng hơn trong hoàn cảnh mà nghề nghiệp đó đặt ra.**
 
@@ -761,7 +673,7 @@ Thiên kiến
 
 Vì vậy không có một chuyên gia duy nhất có thể biết tất cả.
 
-AHI mở ra khả năng:
+AHI mở ra:
 
 ```text
 Chuyên gia A
@@ -793,11 +705,9 @@ Knowledge Base
 Feedback
 ```
 
-Mục tiêu không phải biến chuyên gia thành máy.
+Mục tiêu:
 
-Mục tiêu là:
-
-> **làm cho năng lực chuyên gia có thể được mở rộng bởi máy mà không làm mất nguồn gốc, bối cảnh và trách nhiệm của con người.**
+> **Làm cho năng lực chuyên gia có thể được mở rộng bởi máy mà không làm mất nguồn gốc, bối cảnh và trách nhiệm của con người.**
 
 ---
 
@@ -815,7 +725,7 @@ Expert Thinking ≠ Fact
 Expert Judgment ≠ Universal Truth
 ```
 
-Một hệ thống có thể chứa Tư duy chuyên gia mà vẫn phải đánh dấu:
+Một hệ thống có Tư duy chuyên gia vẫn phải giữ:
 
 ```text
 Source
@@ -905,7 +815,7 @@ Expert Thinking is a structured capacity of cognition and action formed through 
 
 > **Expert Thinking is knowledge that has passed through practice and become a capacity for recognition, judgment, and action.**
 
-### Expert Thinking and Knowledge
+## 1. Expert Thinking and Knowledge
 
 ```text
 Knowledge
@@ -927,7 +837,7 @@ Expert Thinking extends this into:
 
 > What matters here, what should be done, and how should it be done?
 
-### Expert Thinking and Memory
+## 2. Expert Thinking and Memory
 
 ```text
 Experience
@@ -945,7 +855,7 @@ Judgment
 
 Memory provides depth; Expert Thinking turns that depth into meaningful action.
 
-### Expert Thinking and Cognition
+## 3. Expert Thinking and Cognition
 
 ```text
 Sensation
@@ -963,13 +873,13 @@ Expert Thinking
 
 Expert Thinking remains domain- and context-dependent.
 
-### Problem Recognition
+## 4. Problem Recognition
 
 Expertise includes recognizing the correct problem before solving it.
 
 > **A good question can sometimes be more valuable than a fast answer.**
 
-### Pattern Recognition
+## 5. Pattern Recognition
 
 Experience creates patterns and structures.
 
@@ -977,7 +887,7 @@ But expert recognition may also fail through outdated experience, new conditions
 
 > **Experience deepens expertise, while criticism and new evidence prevent expertise from becoming dogma.**
 
-### Judgment
+## 6. Judgment
 
 Expert judgment combines:
 
@@ -1008,7 +918,7 @@ What is uncertain
 What requires validation
 ```
 
-### Intuition
+## 7. Intuition
 
 Expert intuition may arise from:
 
@@ -1022,11 +932,9 @@ Memory
 Practice
 ```
 
-But:
-
 > **Intuition is not automatically truth.**
 
-### Error
+## 8. Error
 
 Experts can be wrong.
 
@@ -1046,7 +954,7 @@ Learn
 
 > **An expert is not someone who never errs; an expert is someone capable of turning error into better knowledge.**
 
-### Method
+## 9. Method
 
 Expert Thinking includes:
 
@@ -1061,7 +969,7 @@ Where to stop
 
 > **Method is the backbone of Expert Thinking.**
 
-### Expert Thinking and AHI
+## 10. Expert Thinking and AHI
 
 AHI can help:
 
@@ -1078,7 +986,7 @@ expert thinking.
 
 The purpose is not to eliminate experts, but to reduce the loss of specialized knowledge when people change roles, leave organizations, or reach the end of their lives.
 
-### AHI-P
+## 11. AHI-P
 
 AHI-P may represent parts of:
 
@@ -1106,7 +1014,7 @@ Judgment
 Proposal
 ```
 
-### AHI-O
+## 12. AHI-O
 
 AHI-O may combine:
 
@@ -1126,21 +1034,9 @@ History
 
 into organizational expert capability.
 
-But one person's opinion does not automatically become organizational truth.
+One person's opinion does not automatically become organizational truth.
 
-It requires:
-
-```text
-Source
-Authority
-Scope
-Validation
-Status
-```
-
-### AHI-G
-
-AHI-G may connect expert capabilities across individuals and organizations:
+## 13. AHI-G
 
 ```text
 Expert A
@@ -1156,7 +1052,7 @@ Collective Expert Capability
 
 This does not create one single expert.
 
-### Expert Thinking and AI
+## 14. Expert Thinking and AI
 
 AI can assist with:
 
@@ -1185,7 +1081,7 @@ Context
 Validation
 ```
 
-### Expert Thinking and Evolutionary Knowledge
+## 15. Expert Thinking and Evolutionary Knowledge
 
 ```text
 Experience
@@ -1205,7 +1101,7 @@ New Expert Thinking
 
 > **Expertise is not a statue; expertise is a river.**
 
-### Expert Thinking Across Generations
+## 16. Expert Thinking Across Generations
 
 Future generations may inherit:
 
@@ -1227,7 +1123,7 @@ Revise
 Transcend
 ```
 
-### Expert Thinking and Ethics
+## 17. Expert Thinking and Ethics
 
 ```text
 Expertise ≠ Authority
@@ -1243,7 +1139,7 @@ Ethics
 Accountability
 ```
 
-### Expert Thinking and Truth–Will–Vitality
+## 18. Expert Thinking and Truth–Will–Vitality
 
 ```text
 Truth
@@ -1259,7 +1155,7 @@ Vitality
 Knowing how to turn choice into action
 ```
 
-### Expert Thinking and Hybrid Intelligence
+## 19. Expert Thinking and Hybrid Intelligence
 
 A Hybrid Intelligence system may combine:
 
@@ -1275,11 +1171,9 @@ Knowledge Base
 Feedback
 ```
 
-The aim is not to turn the expert into a machine.
-
 > **The aim is to extend expert capability through machines without losing human source, context, and accountability.**
 
-### Canonical Distinctions
+## 20. Canonical Distinctions
 
 ```text
 Expert Thinking ≠ Knowledge
@@ -1293,7 +1187,7 @@ Expert Thinking ≠ Fact
 Expert Judgment ≠ Universal Truth
 ```
 
-### Identity
+## Identity
 
 ```text
 Entity ID:
@@ -1309,7 +1203,7 @@ Parent:
 KNOWLEDGE
 ```
 
-### Evolution
+## Evolution
 
 Meaningful changes must record:
 
