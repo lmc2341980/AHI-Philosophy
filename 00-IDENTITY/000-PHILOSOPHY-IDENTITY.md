@@ -655,35 +655,3 @@ AHI-O
 ```text
 Copyright (c) 2026 Lê Minh Công (AHI-LeMinhCong)
 ```
-
----
-
-## Verification
-
-Sau khi commit, kiểm tra GitHub phải có:
-
-```text
-AHI-Philosophy/
-│
-├── README.md
-├── README-AHI-Philosophy.md
-├── LICENSE
-│
-├── 00-IDENTITY/
-│   └── 000-PHILOSOPHY-IDENTITY.md
-│
-└── 99-ARCHIVE/
-    └── SOURCE/
-        └── Triet-Hoc-Le-Minh-Original.md
-```
-
-Và quan hệ phải nhất quán:
-
-```text
-Triết học Lê Minh
-        ↓
-Triết học AHI
-        ↓
-AHI
-```
-
