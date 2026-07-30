@@ -1,8 +1,3 @@
-# README.md
-
-Bản README hoàn chỉnh đã được chuẩn hóa theo cấu trúc:
-
-```text
 Triết học Lê Minh
         ↓
 Triết học AHI
