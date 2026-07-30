@@ -1,5 +1,4 @@
 ---
-
 document_id: PHIL-ONTO-EXPERT-THINKING-001
 document_type: canonical_entity
 entity_id: EXPERT-THINKING
