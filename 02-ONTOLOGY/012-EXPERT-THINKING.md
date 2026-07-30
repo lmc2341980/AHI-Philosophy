@@ -1,5 +1,4 @@
 ---
-
 document_id: "PHIL-ONTO-EXPERT-THINKING-001"
 document_type: "canonical_entity"
 entity_id: "EXPERT-THINKING"
@@ -11,26 +10,24 @@ status: "Approved Entity Definition"
 version: "1.0"
 
 source:
-foundation: "01-FOUNDATION/001-CORE-PHILOSOPHICAL-FRAMEWORK.md"
-ontology_index: "02-ONTOLOGY/000-ONTOLOGY-INDEX.md"
-memory_entity: "02-ONTOLOGY/011-MEMORY.md"
-ahi_entity: "02-ONTOLOGY/010-AHI.md"
-historical_source: "99-ARCHIVE/SOURCE/Triet-Hoc-Le-Minh-Original.md"
+  foundation: "01-FOUNDATION/001-CORE-PHILOSOPHICAL-FRAMEWORK.md"
+  ontology_index: "02-ONTOLOGY/000-ONTOLOGY-INDEX.md"
+  memory_entity: "02-ONTOLOGY/011-MEMORY.md"
+  ahi_entity: "02-ONTOLOGY/010-AHI.md"
+  historical_source: "99-ARCHIVE/SOURCE/Triet-Hoc-Le-Minh-Original.md"
 
 related_entities:
-
-* "HUMAN"
-* "KNOWLEDGE"
-* "COGNITION"
-* "INTELLIGENCE"
-* "MEMORY"
-* "AHI"
-* "AHI-P"
-* "AHI-O"
-* "AHI-G"
-* "AHI-SUCCESSOR"
-* "EVOLUTIONARY-KNOWLEDGE"
-
+  - "HUMAN"
+  - "KNOWLEDGE"
+  - "COGNITION"
+  - "INTELLIGENCE"
+  - "MEMORY"
+  - "AHI"
+  - "AHI-P"
+  - "AHI-O"
+  - "AHI-G"
+  - "AHI-SUCCESSOR"
+  - "EVOLUTIONARY-KNOWLEDGE"
 ---
 
 # TƯ DUY CHUYÊN GIA — EXPERT THINKING
