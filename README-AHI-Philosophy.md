@@ -267,7 +267,7 @@ Sự biết mới
 
 ---
 
-## 🧬 8. AHI-Successor và Giả phả
+## 🧬 8. AHI-Successor và Gia phả
 
 ### AHI-Successor
 
