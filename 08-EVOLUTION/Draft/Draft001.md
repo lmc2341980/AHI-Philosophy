@@ -1,5 +1,3 @@
----
-
 ## BẢNG TỔNG HỢP VÀ SO SÁNH CÁC HỆ THỐNG / TRƯỜNG PHÁI TRIẾT HỌC LỊCH SỬ
 
 | Trường phái / Bộ Triết học | Hạt nhân Lý luận / Bản chất Tự nhiên | Phương pháp Luận | Quan niệm về Lực lượng Sản xuất & Tiến hóa | Hạn chế / Khoảng trống Lịch sử |
