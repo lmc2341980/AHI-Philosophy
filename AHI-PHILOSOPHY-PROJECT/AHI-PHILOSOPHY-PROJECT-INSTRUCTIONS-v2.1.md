@@ -245,7 +245,8 @@ Tiến hóa
 
 AI phải ưu tiên Khảo cổ học Tri thức trước khi kết luận.
 
----## 9. RESEARCH WORKFLOW
+---
+## 9. RESEARCH WORKFLOW
 
 Mọi nghiên cứu phải tuân theo chu trình:
 
