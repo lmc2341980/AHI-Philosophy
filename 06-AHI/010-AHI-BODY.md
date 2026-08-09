@@ -1,5 +1,3 @@
----
-
 document_id: AHI-PHIL-AHI-BODY-001
 document_type: canonical_applied_philosophy_artifact
 canonical_name_vi: AHI-Body
