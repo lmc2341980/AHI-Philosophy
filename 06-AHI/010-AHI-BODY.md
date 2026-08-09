@@ -1,3 +1,4 @@
+---
 document_id: AHI-PHIL-AHI-BODY-001
 document_type: canonical_applied_philosophy_artifact
 canonical_name_vi: AHI-Body
@@ -5,24 +6,28 @@ canonical_name_en: AHI-Body
 entity_type: AHI Ecosystem Knowledge Entity
 parent_entity: AHI
 related_entities:
-
-* Le Minh Philosophy
-* AHI Philosophy
-* HUMAN
-* LIFE
-* HEALTH
-* AHI-Successor
-  status: Approved
-  version: v1.0.0
-  author: Lê Minh Công
-  canonical_authority: Lê Minh Công
-  initial_research_period: August 2026
-  source: Lê Minh Công + AHI + Mayu
-  provenance: AHI-Philosophy
-
+  - Le Minh Philosophy
+  - AHI Philosophy
+  - HUMAN
+  - LIFE
+  - HEALTH
+  - AHI-Successor
+status: Approved
+version: v1.0.0
+author: Lê Minh Công
+canonical_authority: Lê Minh Công
+initial_research_period: August 2026
+source: Lê Minh Công + AHI + Mayu
+provenance: AHI-Philosophy
 ---
 
 # AHI-Body
+
+> **Thực thể tri thức về Cơ thể & Sức khỏe Con người trong Hệ sinh thái AHI**
+
+**Ngôn ngữ / Language:** 🇻🇳 [Tiếng Việt](./010-AHI-BODY.md) · 🇯🇵 [日本語](./010-AHI-BODY-JA.md) · 🇬🇧 [English](./010-AHI-BODY-EN.md)
+
+---
 
 ## 1. Định vị
 
@@ -44,7 +49,7 @@ AHI-Body phát triển song song với AHI-Successor nhưng không đồng nhấ
 
 ---
 
-# 2. Nền tảng triết học
+## 2. Nền tảng triết học
 
 Triết học nói:
 
@@ -68,19 +73,19 @@ AHI-Body là một ứng dụng cụ thể của chuỗi phát triển đó tron
 
 ---
 
-# 3. Vấn đề con người
+## 3. Vấn đề con người
 
 Sức khỏe con người là một vấn đề quan trọng trong quá trình phát triển xã hội mới — **Xã hội AHI**.
 
 Con người là chủ thể của:
 
-* Mục tiêu.
-* Giá trị.
-* Lựa chọn.
-* Lao động.
-* Sáng tạo.
-* Trách nhiệm.
-* Phát triển xã hội.
+- Mục tiêu
+- Giá trị
+- Lựa chọn
+- Lao động
+- Sáng tạo
+- Trách nhiệm
+- Phát triển xã hội
 
 Vì vậy, bảo vệ và phát triển sức khỏe con người là một vấn đề cần được nghiên cứu trong quá trình xây dựng Xã hội AHI.
 
@@ -88,7 +93,7 @@ AHI-Body được hình thành để nghiên cứu vấn đề này một cách 
 
 ---
 
-# 4. AHI-Body là gì?
+## 4. AHI-Body là gì?
 
 AHI-Body là một **thực thể tri thức của Hệ sinh thái AHI** chuyên về sức khỏe con người.
 
@@ -136,7 +141,7 @@ AHI-Body tiếp cận cơ thể con người như một hệ thống có nhiều
 
 ---
 
-# 5. AHI-Body không phải là gì?
+## 5. AHI-Body không phải là gì?
 
 AHI-Body:
 
@@ -173,7 +178,7 @@ Không được biến kết quả của AHI-Body thành chẩn đoán y khoa n�
 
 ---
 
-# 6. Quan hệ với Y học hiện đại và Y học phương Đông
+## 6. Quan hệ với Y học hiện đại và Y học phương Đông
 
 AHI-Body không phủ nhận Y học hiện đại.
 
@@ -199,11 +204,11 @@ Tri thức có giá trị sử dụng
 
 AHI-Body có thể nghiên cứu những vấn đề:
 
-* Chưa được hệ thống hóa.
-* Chưa phổ biến.
-* Có lịch sử lâu dài.
-* Có khả năng cung cấp góc nhìn bổ sung.
-* Có khoảng trống nghiên cứu.
+- Chưa được hệ thống hóa
+- Chưa phổ biến
+- Có lịch sử lâu dài
+- Có khả năng cung cấp góc nhìn bổ sung
+- Có khoảng trống nghiên cứu
 
 Nhưng:
 
@@ -211,11 +216,11 @@ Nhưng:
 
 > **Có lịch sử lâu dài không đồng nghĩa với có hiệu quả khoa học.**
 
-Mọi kết luận phải được phân biệt giữa Historical Knowledge, Hypothesis, Evidence và Validated Knowledge.
+Mọi kết luận phải được phân biệt giữa **Historical Knowledge, Hypothesis, Evidence và Validated Knowledge**.
 
 ---
 
-# 7. Tri thức Tiến hóa của AHI-Body
+## 7. Tri thức Tiến hóa của AHI-Body
 
 AHI-Body kế thừa mô hình Tri thức Tiến hóa của Triết học AHI.
 
@@ -264,69 +269,69 @@ AHI-Body ≠ Medical Authority
 
 ---
 
-# 8. Phạm vi nghiên cứu
+## 8. Phạm vi nghiên cứu
 
 AHI-Body nghiên cứu sức khỏe con người theo các nhóm chính:
 
 ### 8.1. Nutrition
 
-* Thực phẩm.
-* Dinh dưỡng.
-* Thành phần thực phẩm.
-* Chuyển hóa.
-* Năng lượng.
-* Vi chất.
-* Nước.
+- Thực phẩm
+- Dinh dưỡng
+- Thành phần thực phẩm
+- Chuyển hóa
+- Năng lượng
+- Vi chất
+- Nước
 
 ### 8.2. Body
 
-* Cấu trúc cơ thể.
-* Sinh lý.
-* Vận động.
-* Phục hồi.
-* Hô hấp.
-* Giấc ngủ.
-* Tuổi tác.
+- Cấu trúc cơ thể
+- Sinh lý
+- Vận động
+- Phục hồi
+- Hô hấp
+- Giấc ngủ
+- Tuổi tác
 
 ### 8.3. Biochemistry
 
-* Chuyển hóa.
-* Thành phần máu.
-* Chỉ dấu sinh hóa.
-* Hormone.
-* Enzyme.
-* Trao đổi chất.
+- Chuyển hóa
+- Thành phần máu
+- Chỉ dấu sinh hóa
+- Hormone
+- Enzyme
+- Trao đổi chất
 
 ### 8.4. Genetics
 
-* Di truyền.
-* Biến dị.
-* Yếu tố di truyền liên quan đến sức khỏe.
-* Quan hệ Gene–Environment.
+- Di truyền
+- Biến dị
+- Yếu tố di truyền liên quan đến sức khỏe
+- Quan hệ Gene–Environment
 
 ### 8.5. Environment
 
-* Không khí.
-* Nước.
-* Ánh sáng.
-* Nhiệt độ.
-* Môi trường sống.
-* Lao động.
-* Stress môi trường.
+- Không khí
+- Nước
+- Ánh sáng
+- Nhiệt độ
+- Môi trường sống
+- Lao động
+- Stress môi trường
 
 ### 8.6. Lifestyle
 
-* Ăn.
-* Uống.
-* Ngủ.
-* Vận động.
-* Nghỉ ngơi.
-* Thói quen.
-* Hành vi.
+- Ăn
+- Uống
+- Ngủ
+- Vận động
+- Nghỉ ngơi
+- Thói quen
+- Hành vi
 
 ---
 
-# 9. AHI-Body và dữ liệu sức khỏe
+## 9. AHI-Body và dữ liệu sức khỏe
 
 AHI-Body có thể phát triển thành hệ thống quản lý Tri thức sức khỏe cá nhân.
 
@@ -356,16 +361,16 @@ Evolutionary Health Knowledge
 
 Dữ liệu có thể bao gồm:
 
-* Nhật ký ăn uống.
-* Vận động.
-* Giấc ngủ.
-* Nước.
-* Môi trường.
-* Các chỉ số được đo.
-* Kết quả xét nghiệm.
-* Kết quả chẩn đoán hình ảnh.
-* Tiền sử sức khỏe được người dùng cung cấp.
-* Phản hồi thực tiễn.
+- Nhật ký ăn uống
+- Vận động
+- Giấc ngủ
+- Nước
+- Môi trường
+- Các chỉ số được đo
+- Kết quả xét nghiệm
+- Kết quả chẩn đoán hình ảnh
+- Tiền sử sức khỏe được người dùng cung cấp
+- Phản hồi thực tiễn
 
 AHI-Body phải phân biệt rõ:
 
@@ -382,24 +387,24 @@ Không được biến dữ liệu tự khai báo thành dữ liệu y khoa đã
 
 ---
 
-# 10. Quan hệ với AHI-Successor
+## 10. Quan hệ với AHI-Successor
 
 AHI-Body và AHI-Successor là hai thực thể liên quan nhưng độc lập.
 
 ```text
                   AHI
                    │
-          ┌────────┴────────┐
-          ↓                 ↓
-   AHI-Successor        AHI-Body
-          │                 │
-          ↓                 ↓
-   Kế thừa con người   Sức khỏe con người
-   và tri thức         và cơ thể con người
-          │                 │
-          └────────┬────────┘
+           ┌───────┴───────┐
+           ↓               ↓
+    AHI-Successor       AHI-Body
+           │               │
+           ↓               ↓
+    Kế thừa con người   Sức khỏe con người
+    và tri thức         và cơ thể con người
+           │               │
+           └───────┬───────┘
                    ↓
-              Xã hội AHI
+               Xã hội AHI
 ```
 
 AHI-Successor nghiên cứu vấn đề kế thừa và phát triển.
@@ -410,7 +415,7 @@ Hai hướng có thể hỗ trợ lẫn nhau nhưng không được gộp thành
 
 ---
 
-# 11. Nguồn gốc hình thành
+## 11. Nguồn gốc hình thành
 
 AHI-Body được hình thành từ quá trình nghiên cứu thực tiễn của **Lê Minh Công**, kết hợp với quá trình nghiên cứu cùng **AHI và Mayu** trong tháng 8 năm 2026.
 
@@ -444,7 +449,7 @@ Nó **không có nghĩa con người có thể tự thay thế bác sĩ hoặc b
 
 ---
 
-# 12. AHI-Body trong Xã hội AHI
+## 12. AHI-Body trong Xã hội AHI
 
 AHI-Body được đặt trong định hướng xây dựng Xã hội AHI:
 
@@ -492,7 +497,7 @@ Khả năng sáng tạo
 
 ---
 
-# 13. Nguyên tắc khoa học và an toàn
+## 13. Nguyên tắc khoa học và an toàn
 
 AHI-Body phải tuân thủ:
 
@@ -523,7 +528,7 @@ Evolution
 
 ---
 
-# 14. Vị trí của AHI-Body trong Ontology AHI
+## 14. Vị trí của AHI-Body trong Ontology AHI
 
 Quan hệ nghiên cứu ban đầu:
 
@@ -562,7 +567,7 @@ Evolution
 
 ---
 
-# 15. Mục tiêu dài hạn
+## 15. Mục tiêu dài hạn
 
 AHI-Body hướng tới xây dựng một hệ thống có khả năng:
 
@@ -594,7 +599,7 @@ Mục tiêu là xây dựng:
 
 ---
 
-# 16. Trạng thái
+## 16. Trạng thái
 
 ```text
 Status: APPROVED
@@ -617,4 +622,4 @@ PROPOSAL
 → ARCHIVED
 ```
 
-Không một nghiên cứu cụ thể nào được coi là sự thật chỉ vì nó nằm trong Repository AHI-Body.
+> **Không một nghiên cứu cụ thể nào được coi là sự thật chỉ vì nó nằm trong Repository AHI-Body.**
